@@ -8,4 +8,5 @@
 [Financial Planning - Expense Focus.pdf](https://github.com/user-attachments/files/24158598/Financial.Planning.-.Expense.Focus.pdf)
 
 
+[_KPI Store Change Control & Requirements - Extended.pdf](https://github.com/user-attachments/files/24158643/_KPI.Store.Change.Control.Requirements.-.Extended.pdf)
 
